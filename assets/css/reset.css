@@ -1,0 +1,64 @@
+
+
+*{margin:0;padding:0;font:inherit;color:inherit;}
+*, :after, :before {box-sizing:border-box;flex-shrink:0;}
+:root {-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%;text-size-adjust:100%;cursor:default;line-height:1.5;overflow-wrap:break-word;word-break:break-word;tab-size:4}
+html, body {height:100%;}
+img, picture, video, canvas, svg {display: block;max-width:100%;}
+button {background:none;border:0;cursor:pointer;}
+a {text-decoration:none}
+table {border-collapse:collapse;border-spacing:0}
+ul{
+  list-style: none;
+}
+
+:root{
+  --font-en1:'Satoshi-Variable';
+  --font-en2:'Rel';
+  --font-en3:'Voyage';
+  --font-en4:'CircularStd-Book';
+  --font-en5:'CircularStd-Light';
+  --font-en6:'PPNeueMachina';
+  --font-ko1:'HakgyoansimWoojuR';
+}
+
+::selection {
+  color: #000;
+  background: #fff480;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #000;
+  color: #fff;
+  font-family: "Satoshi-Variable","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-size: 14px;
+  letter-spacing: normal;
+  line-height: normal;
+  overflow-x: hidden;
+}
+
+/* 스크롤바 없애고 기능은 냅두기 */
+body{
+  -ms-overflow-style: none;
+  }
+  
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* 1280~[1025] */
+@media (max-width:1280px) {
+
+}
+
+/* 1024~[768] */
+@media (max-width:1024px) {
+
+}
+/* 767~[320] */
+@media (max-width:767px) {
+
+}

@@ -1,0 +1,41 @@
+
+@font-face {
+  font-family: 'Satoshi-Variable';
+  src: url(../fonts/Satoshi-Variable.woff2) format('woff2');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Rel';
+  src: url(../fonts/Rel.woff2) format('woff2');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Voyage';
+  src: url(../fonts/Voyage-Regular.woff) format('woff');
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'CircularStd-Book';
+  src: url(../fonts/CircularStd-Book.woff) format('woff');
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'CircularStd-Light';
+  src: url(../fonts/CircularStd-Light.woff) format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'PPNeueMachina';
+  src: url(../fonts/PPNeueMachina.woff) format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'HakgyoansimWoojuR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/HakgyoansimWoojuR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,62 @@
+/* 공통요소 */
+
+/* blind */
+
+.blind{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  margin: -1px;
+}
+
+.inner{
+  padding: 0 8px;
+}
+
+.white{
+  background: #fff;
+  color: #000;
+}
+.gray{
+  background: #1B1B1F;
+}
+
+
+.contact{
+  /* background: #00ff69; */
+  /* background: #FFF480; */
+  background: #FFAED8;
+  color: #000;
+}
+
+.italic{
+  font-style: italic;
+}
+
+
+input{
+  outline: #f00;
+}
+label{}
+
+
+.numb{
+  font-family: var(--font-en6);}
+
+
+  
+/* 1280~[1025] */
+@media (max-width:1280px) {
+
+}
+
+/* 1024~[768] */
+@media (max-width:1024px) {
+ 
+}
+/* 767~[320] */
+@media (max-width:767px) {
+ 
+}
