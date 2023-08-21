@@ -751,8 +751,6 @@
 }
 
 .sc-work .bg03 {
-  /* background: rgb(28,91,220);
-  background: linear-gradient(150deg, rgba(28,91,220,1) 0%, rgba(78,9,151,1) 50%, rgba(190,1,130,1) 100%); */
   color: #000;
 }
 
@@ -762,28 +760,19 @@
 }
 
 .sc-work .bg04 {
-  /* background-image: url(../images/tamburins-bg.jpg); */
   background-size: cover;
 }
 
-/* .sc-work .bg04 .work-bottom{
-  color: #fff;
-} */
 
 .sc-work .bg05 {
-  /* background-image: url(../images/kakao-bg.jpg); */
   background-size: cover;
 }
 
 .sc-work .bg06 {
-  /* background-image: url(../images/navercareer-bg1.jpg); */
   background-size: cover;
 }
 
 .sc-work .bg07 {
-  /* background-image: url(../images/andar-bg.jpg);
-  background-size: cover; */
-  /* color: #fff; */
 }
 
 .sc-work .work-item:hover .img-box img {
@@ -868,9 +857,6 @@
   padding: 0 28px 0 28px;
   font-size: 1.98vw;
 }
-
-.sc-scroll .desc-box .desc {}
-
 
 
 

@@ -27,7 +27,6 @@ gsap.to(".intro-area .intro-circle", {
     start:"0% 50%",
     end:"100% 100%",
     scrub: 0.2,
-    // markers:true,
   },
   rotation:360
 });
@@ -44,7 +43,6 @@ gsap.set('.slide-list .right',{xPercent:-50})
             start: "0% 100%",
             end: "100% 50%",
             scrub: 0.2,
-            // markers: true,
           }
     })
     edu
@@ -61,7 +59,6 @@ gsap.to(".sc-contact .contact-circle", {
     start:"0% 60%",
     end:"80% 70%",
     scrub: 0.2,
-    // markers:true,
   },
   rotation:360
 });
