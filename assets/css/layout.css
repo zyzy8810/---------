@@ -65,6 +65,9 @@
   display: none;
 }
 
+.skip-nav { position: relative }
+.skip-nav a { position: absolute; line-height: 50px; background: #f00; color: #fff; top: -50px; }
+.skip-nav a:focus, .skip-nav a:active { top: 0; }
 
 
 /* 1280~[1025] */
